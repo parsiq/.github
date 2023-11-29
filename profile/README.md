@@ -1,1 +1,1 @@
-PARSIQ
+PARSIQ is a comprehensive data network for powering the backend of Web3 dApps and protocols. Its APIs offer real-time and historical data querying for blockchain protocols and clients, facilitating the creation of various Web3 data products. For detailed usage instructions, refer to [PARSIQ documentation](https://docs.parsiq.net).
